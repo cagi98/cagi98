@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Magnim
+- 👋 Hi, I’m Joël
 - 👀 I’m interested in coding app
 - 🌱 I’m currently learning Internet of Things
 - 💞️ I’m looking to collaborate on various web projects
